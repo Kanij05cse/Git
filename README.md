@@ -6,15 +6,6 @@ Git Commands---
 গিট কমান্ডস
 ============
 
-## অনুবাদিত সংস্করণ
-- [English version (original)](README.md)
-- [Versão em português](READMEpt.md)
-- [Versión en español](READMEes.md)
-- [বাংলা সংস্করণ](READMEbn.md)
-- [हिन्दी अनुवाद](READMEhi.md)
-
-___
-
 _প্রায়শই ব্যবহৃত গিট কমান্ডের তালিকা_
 
 *আপনি যদি গিট এলিয়াসে আগ্রহী হন তবে এখানে '.bash_profile' এ দেখুন: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
